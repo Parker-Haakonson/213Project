@@ -1,7 +1,7 @@
 using _213Project.Components;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//Comment to test pushing
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
